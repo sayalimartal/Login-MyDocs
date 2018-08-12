@@ -14,7 +14,7 @@ width: 100%;
 }
 </style>
 </head>
-
+<!-- Display page footer -->
 <body>
 
 <div class="foot">

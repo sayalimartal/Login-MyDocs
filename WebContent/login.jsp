@@ -38,7 +38,7 @@ font-family: sans-serif;
 }
 </style>
 </head>
-
+<!-- Input login credentials using a form -->
 <body>
 
 <div>

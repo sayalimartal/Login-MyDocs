@@ -9,7 +9,7 @@
 <meta charset="ISO-8859-1">
 <title>Header</title>
 </head>
-
+<!-- Display page footer -->
 <body>
 <h1 align="center">Welcome to the MyDocs Portal &#8208; A safe way of sharing documents</h1>
 

@@ -12,7 +12,7 @@ min-height: 100%
 }
 </style>
 </head>
-
+<!-- Display error message for invalid login attempt  -->
 <body>
 
 <div>

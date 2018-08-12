@@ -9,14 +9,14 @@
 <style>
 html{
 position: relative;
-min-height: 100%
+min-height: 100%;
 }
 </style>
 </head>
 
 <body>
-
-<jstl:if test='${sessionScope.username != null }'><!-- Display success page only for valid user -->
+<!-- Display success page only for valid user -->
+<jstl:if test='${sessionScope.username != null }'>
 <div>
 <jsp:include page="header.jsp" />
 </div>
